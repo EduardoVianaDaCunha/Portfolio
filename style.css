@@ -21,7 +21,7 @@ body {
 .foto {
   width: 200px;
   height 200px;
-  border-radius: 160px;
+  border-radius: 360px;
   box-shadow: 4px 4px 4px darkgreen;
 }
 .cabecalho {
