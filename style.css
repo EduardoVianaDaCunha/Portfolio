@@ -91,7 +91,7 @@ a {
   text-decoration: none;
 }
 .light {
-  background-image: url(https://github.com/Nekroz-Tech/Portfolio/blob/main/matrix-fundo-branco-75.jpg.jpg?raw=true");
+  background-image: url("https://github.com/Nekroz-Tech/Portfolio/blob/main/matrix-fundo-branco-75.jpg.jpg?raw=true");
   background-size: cover;
   color: white;
   background-repeat: no-repeat;
